@@ -8,4 +8,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="formTextSize">20sp</dimen>
     <dimen name="formHintSize">15sp</dimen>
+    <dimen name="dividerMargin">5dp</dimen>
 </resources>

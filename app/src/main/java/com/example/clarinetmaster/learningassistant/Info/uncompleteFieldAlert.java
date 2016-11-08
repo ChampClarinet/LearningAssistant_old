@@ -18,7 +18,7 @@ public class uncompleteFieldAlert {
         AlertDialog.Builder dialog = new AlertDialog.Builder(context);
         dialog.setTitle(context.getResources().getString(R.string.error));
         dialog.setMessage(context.getResources().getString(R.string.errMessage));
-        dialog.setNeutralButton(context.getResources().getString(R.string.ok), new DialogInterface.OnClickListener() {
+        dialog.setNeutralButton(context.getResources().getString(R.string.okButton), new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 dialog.dismiss();

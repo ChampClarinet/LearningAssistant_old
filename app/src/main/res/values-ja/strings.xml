@@ -15,5 +15,5 @@
     <string name="TesttimeFormLabel">試験時間</string>
     <string name="add">追加</string>
     <string name="description">記述</string>
-    <string name="ok">はい</string>
+    <string name="okButton">はい</string>
 </resources>

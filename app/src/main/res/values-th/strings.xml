@@ -15,5 +15,5 @@
     <string name="TesttimeFormLabel">เวลาสอบ</string>
     <string name="add">เพิ่มรายวิชา</string>
     <string name="description">คำอธิบาย</string>
-    <string name="ok">ย้อนกลับ</string>
+    <string name="okButton">ย้อนกลับ</string>
 </resources>

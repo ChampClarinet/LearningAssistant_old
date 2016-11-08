@@ -21,7 +21,8 @@
         <activity
             android:name=".Schedule"
             android:label="@string/schedule"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AddCourseActivity"></activity>
     </application>
 
 </manifest>

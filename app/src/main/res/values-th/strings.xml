@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="courseAdd">เพิ่มรายวิชา</string>
+    <string name="courseNameFormHint">ชื่อวิชา</string>
+    <string name="feed">หน้าฟีด</string>
+    <string name="fri">ศุกร์</string>
+    <string name="mon">จันทร์</string>
+    <string name="sat">เสาร์</string>
+    <string name="schedule">ตารางเวลา</string>
+    <string name="sun">อาทิตย์</string>
+    <string name="thu">พฤหัส</string>
+    <string name="tue">อังคาร</string>
+    <string name="wed">พุธ</string>
+    <string name="learntimeFormLabel">เวลาเรียน</string>
+    <string name="TesttimeFormLabel">เวลาสอบ</string>
+    <string name="add">เพิ่มรายวิชา</string>
+    <string name="description">คำอธิบาย</string>
+    <string name="ok">ย้อนกลับ</string>
+</resources>
